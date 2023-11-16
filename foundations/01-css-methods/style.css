@@ -1,0 +1,9 @@
+/* syle.css */
+
+div{
+    background-color: red;
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+    color: white;
+}
